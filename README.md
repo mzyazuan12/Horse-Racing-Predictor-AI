@@ -18,7 +18,7 @@ Time and knowledge of the technologies
 
 ## **Accomplishments that we're proud of**
 
-We made a model that had 97% accuracy
+We made a model that had 93.7% accuracy
 
 ## **What we learned**
 
